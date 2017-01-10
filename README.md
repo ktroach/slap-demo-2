@@ -1,4 +1,4 @@
-# AFS TMT SLAP UI Mockup
+# SLAP DEMO 2 Repo
 
 ## This repo is used to push the latest SLAP UI build to the Heroku server running a standalone instance of the SLAP Mockup.
 
