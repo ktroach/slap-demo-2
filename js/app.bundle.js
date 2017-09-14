@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "ab3bb207a9ea87127ce6"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "2e8fb6f9e4c009a8e000"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotMainModule = true; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -49523,8 +49523,8 @@ exports.default = function () {
     // $body.toggleClass('layout-boxed');
     $body.toggleClass('layout-fixed');
     // $body.toggleClass('show-scrollbar');
-    $body.toggleClass('aside-collapsed');
-    $body.toggleClass('aside-collapsed-text'); //was on
+    // $body.toggleClass('aside-collapsed');
+    // $body.toggleClass('aside-collapsed-text');  //was on
     //
     // $('#chk-boxed').prop( "checked", true );
     // $('#chk-fixed').prop( "checked", true );
